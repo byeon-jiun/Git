@@ -14,5 +14,6 @@
 </body>
 <script>
 	console.log("hello Vs code");
+	alert("hello mongkey");
 </script>
 </html>
