@@ -15,6 +15,6 @@
 	g
 	gg
 	zzzzzzzzz
-	
+	<footer>푸터 추가</footer>
 </body>
 </html>
