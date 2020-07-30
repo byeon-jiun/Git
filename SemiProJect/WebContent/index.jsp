@@ -12,4 +12,7 @@
 	commit 4
 	commit 5
 </body>
+<script>
+	console.log("hello Vs code");
+</script>
 </html>
