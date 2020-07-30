@@ -15,5 +15,6 @@
 <script>
 	console.log("hello Vs code");
 	alert("hello mongkey");
+	alert("fucking");
 </script>
 </html>
